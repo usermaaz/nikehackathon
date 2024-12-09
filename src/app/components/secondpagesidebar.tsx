@@ -5,9 +5,9 @@ export default function Sidebartwo() {
         <div>
             <div>
                 <ul className="flex justify-end gap-2 underline py-3 rounded-md">
-                    <li className=""><Link href={"/"}>  <button>home-page</button></Link> </li>
+                    <li className=""><Link href={"/"}>  <button></button></Link> </li>
                     <br />
-                    <li className=""> <Link href={"/product-detail"}> <button>Cart</button></Link></li>
+                    <li className=""> <Link href={"/product-detail"}> <button></button></Link></li>
                 </ul>
             </div>
             <main className="my-20 max-w-[1300px] mx-auto flex gap-x-4 lg:gap-x-20">
